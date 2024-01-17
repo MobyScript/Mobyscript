@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Baloo+Bhaijaan+2&pause=1000&color=FF0606&random=false&width=435&lines=Yo%2C+I+am+Mobark+%F0%9F%91%8B%F0%9F%8F%BD;I+am+a+Software+Engineer+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Baloo+Bhaijaan+2&weight=600&size=28&pause=1000&color=FF0606&random=false&width=436&height=100&lines=Yo%2C+I+am+Mobark+%F0%9F%91%8B%F0%9F%8F%BD;I+am+a+Software+Engineer+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
